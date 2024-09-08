@@ -6,5 +6,4 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web, ts/js, how to build fast
 - 📫 How to reach me: https://t.me/ShahinSorkh / sorkh.shahin@hotmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am a kitten inside!
